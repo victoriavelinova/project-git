@@ -149,3 +149,13 @@ a:hover {
   position: relative;
   right: 50px;
 }
+
+.link {
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.line-code {
+  color: rgb(231, 133, 133);
+}
